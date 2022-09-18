@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ByanTask</string>
+    <string name="login">Sign In</string>
+    <string name="welcome">Welcome</string>
+    <string name="email">Email</string>
+    <string name="login_email_hint">email@gmail.com</string>
+    <string name="pass">Password</string>
+    <string name="forget_pass">Forget Password?</string>
+    <string name="username">User Name</string>
+    <string name="new_membership">New membership</string>
+    <string name="already_have_member">Already have membership?</string>
+    <string name="nav_main">Main</string>
+    <string name="nav_doaa">Doaa</string>
+    <string name="nav_quraan">Quraan</string>
+    <string name="nav_subject">Subject</string>
+    <string name="nav_more">More</string>
+    <string name="take_look">الق نظرة علي بعض الاضافات الجديدة</string>
+    <string name="start_now">ابدأ الان</string>
+    <string name="later">لاحقا</string>
+    <string name="register">Sign Up</string>
+</resources>

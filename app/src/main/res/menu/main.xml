@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/main"
+    android:title="@string/nav_main"
+    android:icon="@drawable/ic_nav_home"/>
+
+    <item android:id="@+id/doaa"
+    android:title="@string/nav_doaa"
+    android:icon="@drawable/ic_nav_pray"/>
+
+    <item android:id="@+id/quraan"
+        android:checked="true"
+    android:title="@string/nav_quraan"
+    android:icon="@drawable/ic_nav_quraan"/>
+
+    <item android:id="@+id/subject"
+    android:title="@string/nav_subject"
+    android:icon="@drawable/ic_nav_subject"/>
+
+    <item android:id="@+id/more"
+    android:title="@string/nav_more"
+    android:icon="@drawable/ic_nav_more"/>
+</menu>
