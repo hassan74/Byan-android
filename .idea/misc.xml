@@ -7,6 +7,9 @@
         <entry key="..\:/Ho projects/ByanTask/app/src/main/res/drawable/bg_header.xml" value="0.1935" />
         <entry key="..\:/Ho projects/ByanTask/app/src/main/res/drawable/bg_main_third_lay.xml" value="0.1705" />
         <entry key="..\:/Ho projects/ByanTask/app/src/main/res/drawable/bg_main_timer.xml" value="0.1935" />
+        <entry key="..\:/Ho projects/ByanTask/app/src/main/res/drawable/ic_bg_inner.xml" value="0.1705" />
+        <entry key="..\:/Ho projects/ByanTask/app/src/main/res/drawable/ic_categ2.xml" value="0.1705" />
+        <entry key="..\:/Ho projects/ByanTask/app/src/main/res/drawable/ic_home_bg.xml" value="0.1705" />
         <entry key="..\:/Ho projects/ByanTask/app/src/main/res/drawable/ic_info.xml" value="0.1935" />
         <entry key="..\:/Ho projects/ByanTask/app/src/main/res/drawable/ic_login_bk.xml" value="0.1835" />
         <entry key="..\:/Ho projects/ByanTask/app/src/main/res/drawable/ic_nav_home.xml" value="0.1935" />
@@ -14,10 +17,11 @@
         <entry key="..\:/Ho projects/ByanTask/app/src/main/res/drawable/login_shape_bk.xml" value="0.1835" />
         <entry key="..\:/Ho projects/ByanTask/app/src/main/res/drawable/nav_bar_colors_bg.xml" value="0.1935" />
         <entry key="..\:/Ho projects/ByanTask/app/src/main/res/drawable/navigation_view_colored.xml" value="0.1935" />
-        <entry key="..\:/Ho projects/ByanTask/app/src/main/res/drawable/rounded_border_button.xml" value="0.1835" />
+        <entry key="..\:/Ho projects/ByanTask/app/src/main/res/drawable/rounded_border_button.xml" value="0.16" />
+        <entry key="..\:/Ho projects/ByanTask/app/src/main/res/drawable/rounded_border_button_silver.xml" value="0.1705" />
         <entry key="..\:/Ho projects/ByanTask/app/src/main/res/drawable/rounded_border_edittext.xml" value="0.1835" />
         <entry key="..\:/Ho projects/ByanTask/app/src/main/res/drawable/rounded_border_lay.xml" value="0.176" />
-        <entry key="..\:/Ho projects/ByanTask/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Ho projects/ByanTask/app/src/main/res/layout/activity_home.xml" value="0.264" />
         <entry key="..\:/Ho projects/ByanTask/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/Ho projects/ByanTask/app/src/main/res/layout/activity_register.xml" value="0.264" />
         <entry key="..\:/Ho projects/ByanTask/app/src/main/res/layout/layout_register.xml" value="0.264" />

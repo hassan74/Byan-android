@@ -1,7 +1,8 @@
-package com.devzone.byantask
+package com.hassan.byantask.ui.component.home
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.hassan.byantask.R
 
 class HomeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

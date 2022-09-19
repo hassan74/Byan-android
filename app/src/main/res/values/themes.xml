@@ -3,7 +3,7 @@
     <style name="Theme.ByanTask" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/green</item>
-        <item name="fontFamily">@font/cairo_regular</item>
+        <item name="fontFamily">@font/notokufiarabic_regular</item>
         <item name="colorPrimaryVariant">#397263</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
